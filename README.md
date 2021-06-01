@@ -1,5 +1,6 @@
 # animal_classfier
 このツールはサル・イノシシ・カラスの画像を分類します。
+KerasやFlaskを使って画像分類をするモデルを作りました。
 
 # 使い方
 １．コードをダウンロードして、コマンドプロンプトでset FLASK_APP=predict.py 、python -m flask runを入力する。
